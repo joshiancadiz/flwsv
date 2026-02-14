@@ -13,7 +13,7 @@
 body {
   display: flex;
   align-items: center;
-  padding-top: 500px;
+  padding-top: 400px;
   justify-content: center;
   min-height: 100vh;
   background-color: var(--dark-color);
